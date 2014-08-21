@@ -19,7 +19,7 @@ knit        : slidify::knit2slides
 <br>
 <br>
 
-## Beer Recommendation Eengine
+## Beer Recommendation Engine
 #### Coursera Project
 <small> Created by Marius Radu / [@radmar2002](https://twitter.com/radmar2002) </small>
 
